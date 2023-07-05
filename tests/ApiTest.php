@@ -1,6 +1,6 @@
 <?php
 
-use louis\OssTd2\Api;
+use lnourry75\OssTd2\Api;
 use PHPUnit\Framework\TestCase;
 
 class ApiTest extends TestCase
